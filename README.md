@@ -72,7 +72,6 @@ Download Content and Style image from `NST` folder from following link
    ```sh
    git clone https://github.com/roshan1208/Neural-Style-Transfer-using-pytorch-and-VGG16.git
    ```
-
  
  Open `NST Neural Style Transfer.ipynb` and Follow along as discuss in that file  
 
